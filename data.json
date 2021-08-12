@@ -5,7 +5,7 @@
             "respuesta1":"main",
             "respuesta2":"section",
             "respuesta3":"header",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/child.png"
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png"
             
         },
         
@@ -14,7 +14,7 @@
             "respuesta1":"<br>",
             "respuesta2":"<script>",
             "respuesta3":"<style>",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/ni%C3%B1a.png"
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png"
         },
 
         {
@@ -22,7 +22,7 @@
             "respuesta1":"Don’t repeat yellow",
             "respuesta2":"Don’t repeat yourself",
             "respuesta3":"Don’t recicle year",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/child2.png"
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png"
         }],
     
     "selecc":[
@@ -38,10 +38,10 @@
     "options":[
         {
             "id":5,
-            "seleccion1":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/angularLogo.png",
-            "seleccion2":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/vuelogo.png",
-            "seleccion3":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/kotlin.png",
-            "seleccion4":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/windows.png"
+            "seleccion1":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/angularLogo.png",
+            "seleccion2":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/vuelogo.png",
+            "seleccion3":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/kotlin.png",
+            "seleccion4":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/windows.png"
         }
     ],
 
@@ -53,7 +53,7 @@
             "respuesta1":"Cascading Style Sheets",
             "respuesta2":"Creative Style Sheets",
             "respuesta3":"Computer Style Sheets",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/child2.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png" 
         },
 
         {
@@ -62,7 +62,7 @@
             "respuesta1":"<stylesheet>mystyle.css</stylesheet>",
             "respuesta2":"<link rel=”stylesheet” type=”text/css” href=”mystyle.css”>",
             "respuesta3":"<style src=”mystyle.css”>",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/child2.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/cssChild.png" 
         },
 
         {
@@ -71,7 +71,7 @@
             "respuesta1":"font-family:",
             "respuesta2":"f:",
             "respuesta3":"font=",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/child2.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png" 
         }
     ],
 
@@ -83,7 +83,7 @@
             "respuesta1":"< javascript _code > < /javascript_code >",
             "respuesta2":"< script > < /script >",
             "respuesta3":"< ?script > < script? >",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/child2.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png" 
         },
 
 
@@ -93,7 +93,7 @@
             "respuesta1":"font-family:",
             "respuesta2":"f:",
             "respuesta3":"font=",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/child2.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png" 
         },
 
         {
@@ -102,7 +102,7 @@
             "respuesta1":"Send",
             "respuesta2":"Return",
             "respuesta3":"Value",
-            "imag":"https://github.com/Dakkuti/Daily-bits/blob/master/assets/child2.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png" 
         }
     ]
 }
