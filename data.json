@@ -7,7 +7,7 @@
             "respuesta2":"section", 
             "respuesta3":"header", 
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
-            "correct": "respuesta1"
+            "correct": "main"
         },
         
         {
@@ -17,7 +17,7 @@
             "respuesta2":"<script>",            
             "respuesta3":"<style>",
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
-            "correct": "respuesta2"
+            "correct": "<script>"
 
         },
 
@@ -28,7 +28,7 @@
            "respuesta2":"Don’t repeat yourself",           
            "respuesta3":"Don’t recicle year",
            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
-          "correct": "respuesta2"
+          "correct": "Don’t repeat yourself"
 
         }
     ],
