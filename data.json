@@ -69,8 +69,8 @@
         {
             "id":2,
             "pregunta":"¿Cuál es la forma correcta en HTML para referirse a una hoja de estilos externa?",
-            "respuesta1":"<stylesheet>mystyle.css</stylesheet>",
-            "respuesta2":"<link rel=”stylesheet” type=”text/css” href=”mystyle.css”>",
+            "respuesta1":"<stylesheet></stylesheet>",
+            "respuesta2":"<link rel=”stylesheet” />",
             "respuesta3":"<style src=”mystyle.css”>",
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/cssChild.png" 
         },
@@ -90,9 +90,9 @@
         {
             "id":1,
             "pregunta":"¿Cuáles de estas son etiquetas para la inserción del código JavaScript en las páginas HTML?",
-            "respuesta1":"< javascript _code > < /javascript_code >",
-            "respuesta2":"< script > < /script >",
-            "respuesta3":"< ?script > < script? >",
+            "respuesta1":"< javascript _code >",
+            "respuesta2":"<script />",
+            "respuesta3":"< ?script >< script? >",
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png" 
         },
 
