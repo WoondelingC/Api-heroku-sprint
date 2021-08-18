@@ -1,5 +1,6 @@
-{
+{ 
     "questionHtml":[
+        [
         {"pregunta":"¿Qué etiqueta es semánticamente correcta para el contenido principal?",
             "opciones":[
             {"id":1}, 
@@ -8,8 +9,9 @@
             {"respuesta3":"header", "isCorrect":false},
             {"imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png"}
             ]
-        },
-        
+        }
+    ],
+        [
         {"pregunta":"¿Qué etiqueta HTML nos sirve para incluir archivos de JavaScript?",
             "opciones":[
             {"id":2}, 
@@ -18,8 +20,9 @@
             {"respuesta3":"<style>", "iscorrect":false},
             {"imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png"}
             ]
-        },
-
+        }
+    ],
+    [
         {"pregunta":"¿Qué significa DRY?",
             "opciones":[
             {"id":3},
@@ -29,6 +32,7 @@
             {"imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png"}
         ]
         }
+    ]
     ],
     
     "selecc":[
