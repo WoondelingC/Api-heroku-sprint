@@ -1,138 +1,131 @@
-{ 
-    "questionHtml":[
-        {
-            "id":1, 
-            "pregunta":"¿Qué etiqueta es semánticamente correcta para el contenido principal?",
-            "respuesta1":"main",             
-            "respuesta2":"section", 
-            "respuesta3":"header", 
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
-            "correct": "main"
-        },
-        
-        {
-            "id":2, 
-            "pregunta":"¿Qué etiqueta HTML nos sirve para incluir archivos de JavaScript?",
-            "respuesta1":"<br>",
-            "respuesta2":"<script>",            
-            "respuesta3":"<style>",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
-            "correct": "<script>"
+{
+  "questionHtml": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué etiqueta es semánticamente correcta para el contenido principal?",
+      "respuesta1": "main",
+      "respuesta2": "section",
+      "respuesta3": "header",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+      "correct": "main"
+    },
 
-        },
+    {
+      "id": 2,
+      "pregunta": "¿Qué etiqueta HTML nos sirve para incluir archivos de JavaScript?",
+      "respuesta1": "<br>",
+      "respuesta2": "<script>",
+      "respuesta3": "<style>",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
+      "correct": "<script>"
+    },
 
-        {
-           "id":3,
-           "pregunta":"¿Qué significa DRY?",
-           "respuesta1":"Don’t repeat yellow",
-           "respuesta2":"Don’t repeat yourself",           
-           "respuesta3":"Don’t recicle year",
-           "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
-          "correct": "Don’t repeat yourself"
+    {
+      "id": 3,
+      "pregunta": "¿Qué significa DRY?",
+      "respuesta1": "Don’t repeat yellow",
+      "respuesta2": "Don’t repeat yourself",
+      "respuesta3": "Don’t recicle year",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
+      "correct": "Don’t repeat yourself"
+    }
+  ],
 
-        }
-    ],
-    
-    "selecc":[
-        {
-            "id":4,
-            "pregunta":"Organiza la estructura de un documento HTML5",
-            "opcion1":"<!DOCTYPE html>",
-            "opcion2":"<body> </body>",
-            "opcion3":"<head> </head>",
-            "opcion4":"<html>",
-            "opcion5":"</html>"
-        }],
+  "selecc": [
+    {
+      "id": 4,
+      "pregunta": "Organiza la estructura de un documento HTML5",
+      "opcion1": "<!DOCTYPE html>",
+      "opcion2": "<body> </body>",
+      "opcion3": "<head> </head>",
+      "opcion4": "<html>",
+      "opcion5": "</html>"
+    }
+  ],
 
-    "options":[
-        {
-            "id":5,
-            "pregunta":"¿Qué tecnologías pertenece al MEVN Stack?",
-            "seleccion1":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/angularLogo.png",
-            "seleccion2":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/vuelogo.png",
-            "seleccion3":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/kotlin.png",
-            "seleccion4":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/windows.png"
-        }
-    ],
+  "options": [
+    {
+      "id": 5,
+      "pregunta": "¿Qué tecnologías pertenece al MEVN Stack?",
+      "seleccion1": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/angularLogo.png",
+      "seleccion2": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/vuelogo.png",
+      "seleccion3": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/kotlin.png",
+      "seleccion4": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/windows.png"
+    }
+  ],
 
-    "questionCss":[
+  "questionCss": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué significa CSS?",
+      "respuesta1": "Cascading Style Sheets",
+      "respuesta2": "Creative Style Sheets",
+      "respuesta3": "Computer Style Sheets",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png"
+    },
 
-        {
-            "id":1,
-            "pregunta":"¿Qué significa CSS?",
-            "respuesta1":"Cascading Style Sheets",
-            "respuesta2":"Creative Style Sheets",
-            "respuesta3":"Computer Style Sheets",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png" 
-        },
+    {
+      "id": 2,
+      "pregunta": "¿Cuál es la forma correcta en HTML para referirse a una hoja de estilos externa?",
+      "respuesta1": "<stylesheet></stylesheet>",
+      "respuesta2": "<link rel=”stylesheet” />",
+      "respuesta3": "<style src=”mystyle.css”>",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/cssChild.png"
+    },
 
-        {
-            "id":2,
-            "pregunta":"¿Cuál es la forma correcta en HTML para referirse a una hoja de estilos externa?",
-            "respuesta1":"<stylesheet></stylesheet>",
-            "respuesta2":"<link rel=”stylesheet” />",
-            "respuesta3":"<style src=”mystyle.css”>",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/cssChild.png" 
-        },
+    {
+      "id": 3,
+      "pregunta": "¿Cómo podemos cambiar la fuente de un elemento?",
+      "respuesta1": "font-family:",
+      "respuesta2": "f:",
+      "respuesta3": "font=",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png"
+    }
+  ],
 
-        {
-            "id":3,
-            "pregunta":"¿Cómo podemos cambiar la fuente de un elemento?",
-            "respuesta1":"font-family:",
-            "respuesta2":"f:",
-            "respuesta3":"font=",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png" 
-        }
-    ],
+  "questionJs": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuáles de estas son etiquetas para la inserción del código JavaScript en las páginas HTML?",
+      "respuesta1": "< javascript _code >",
+      "respuesta2": "<script />",
+      "respuesta3": "< ?script >< script? >",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png"
+    },
 
-    "questionJs":[
-        
-        {
-            "id":1,
-            "pregunta":"¿Cuáles de estas son etiquetas para la inserción del código JavaScript en las páginas HTML?",
-            "respuesta1":"< javascript _code >",
-            "respuesta2":"<script />",
-            "respuesta3":"< ?script >< script? >",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png" 
-        },
+    {
+      "id": 2,
+      "pregunta": "¿Cómo podemos cambiar la fuente de un elemento?",
+      "respuesta1": "font-family:",
+      "respuesta2": "f:",
+      "respuesta3": "font=",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png"
+    },
 
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es la instrucción usada para devolver un valor en una función de JavaScript?",
+      "respuesta1": "Send",
+      "respuesta2": "Return",
+      "respuesta3": "Value",
+      "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png"
+    }
+  ],
 
-        {
-            "id":2,
-            "pregunta":"¿Cómo podemos cambiar la fuente de un elemento?",
-            "respuesta1":"font-family:",
-            "respuesta2":"f:",
-            "respuesta3":"font=",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png" 
-        },
-
-        {
-            "id":3,
-            "pregunta":"¿Cuál es la instrucción usada para devolver un valor en una función de JavaScript?",
-            "respuesta1":"Send",
-            "respuesta2":"Return",
-            "respuesta3":"Value",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png" 
-        }
-    ],
-
-    "users":[
-        {
-            "id": 1,
-            "name": "Luis Humberto",
-            "lastName": "Hernández Lavacude",
-            "email": "lhernandez@gmail.com",
-            "password":"123456789",
-            "avatar":"https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/59c4f5655bafe82c692a7052/gato-marron_0.jpg",
-            "statitics":[
-                {
-                    "timeHours":0,
-                    "constrainedQuestions":0,
-                    "CorrectQuestions": 0,
-                    "IncorrectQuestion":0
-                }
-            ]
-
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Luis Humberto",
+      "lastName": "Hernández Lavacude",
+      "email": "lhernandez@gmail.com",
+      "password": "123456789",
+      "avatar": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/59c4f5655bafe82c692a7052/gato-marron_0.jpg",
+      "statitics": {
+        "timeHours": 0,
+        "constrainedQuestions": 0,
+        "CorrectQuestions": 0,
+        "IncorrectQuestion": 0
+      }
+    }
+  ]
 }
