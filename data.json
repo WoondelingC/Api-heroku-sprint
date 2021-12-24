@@ -40,6 +40,7 @@
             "respuesta1":"<!DOCTYPE html>",
             "respuesta2":"<body> </body>",
             "respuesta3":"<head> </head>",
+            "respuesta4":"<style></style>",
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
             "correct": "<!DOCTYPE html>"
         },
