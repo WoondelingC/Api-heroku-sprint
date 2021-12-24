@@ -1,3 +1,4 @@
+
 { 
     "questionHtml":[
         {
@@ -22,36 +23,36 @@
         },
 
         {
-           "id":3,
-           "pregunta":"¿Qué significa DRY?",
-           "respuesta1":"Don’t repeat yellow",
-           "respuesta2":"Don’t repeat yourself",           
-           "respuesta3":"Don’t recicle year",
-           "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
-          "correct": "Don’t repeat yourself"
+            "id":3,
+            "pregunta":"¿Qué significa DRY?",
+            "respuesta1":"Don’t repeat yellow",
+            "respuesta2":"Don’t repeat yourself",           
+            "respuesta3":"Don’t recicle year",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
+            "correct": "Don’t repeat yourself"
 
-        }
-    ],
+        },
     
-    "selecc":[
         {
             "id":4,
-            "pregunta":"Organiza la estructura de un documento HTML5",
-            "opcion1":"<!DOCTYPE html>",
-            "opcion2":"<body> </body>",
-            "opcion3":"<head> </head>",
-            "opcion4":"<html>",
-            "opcion5":"</html>"
-        }],
+            "pregunta":"Cual seria la primera etiqueta de un documento HTML5",
+            "respuesta1":"<!DOCTYPE html>",
+            "respuesta2":"<body> </body>",
+            "respuesta3":"<head> </head>",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
+            "correct": "<!DOCTYPE html>"
+        },
 
-    "options":[
         {
             "id":5,
             "pregunta":"¿Qué tecnologías pertenece al MEVN Stack?",
-            "seleccion1":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/angularLogo.png",
-            "seleccion2":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/vuelogo.png",
-            "seleccion3":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/kotlin.png",
-            "seleccion4":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/windows.png"
+            "respuesta1":"Angular",
+            "respuesta2":"VueJS",
+            "respuesta3":"kotlin",
+            "respuesta4":"Windows",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
+            "correct":"Angular"
+
         }
     ],
 
@@ -63,7 +64,9 @@
             "respuesta1":"Cascading Style Sheets",
             "respuesta2":"Creative Style Sheets",
             "respuesta3":"Computer Style Sheets",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png" 
+            "respuesta4":"Style Sheets Component",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
+            "correct":"Cascading Style Sheets" 
         },
 
         {
@@ -72,7 +75,9 @@
             "respuesta1":"<stylesheet></stylesheet>",
             "respuesta2":"<link rel=”stylesheet” />",
             "respuesta3":"<style src=”mystyle.css”>",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/cssChild.png" 
+            "respuesta4":"<script src=style.css>",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/cssChild.png",
+            "correct":"<link rel=”stylesheet” />"
         },
 
         {
@@ -81,7 +86,31 @@
             "respuesta1":"font-family:",
             "respuesta2":"f:",
             "respuesta3":"font=",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png" 
+            "respuesta4":"font-size",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"font-family" 
+        },
+
+        {   
+            "id":4,
+            "pregunta":"¿En qué sección de la página HTML podemos definir una hoja de estilo interna CSS?",
+            "respuesta1":"En al sección <body>",
+            "respuesta2":"En la sección <head>",
+            "respuesta3":"En la sección <footer>",
+            "respuesta4":"En la sección <main>",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"En la sección <head>"
+        },
+
+        {
+            "id":5,
+            "pregunta":"¿Que estilo agrega espacio interno al elemento?",
+            "respuesta1":"color",
+            "respuesta2":"width",
+            "respuesta3":"margin",
+            "respuesta4":"padding",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"padding" 
         }
     ],
 
@@ -93,7 +122,8 @@
             "respuesta1":"< javascript _code >",
             "respuesta2":"<script />",
             "respuesta3":"< ?script >< script? >",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
+            "correct":"<script />" 
         },
 
 
@@ -103,7 +133,8 @@
             "respuesta1":"font-family:",
             "respuesta2":"f:",
             "respuesta3":"font=",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
+            "correct":"font-family:" 
         },
 
         {
@@ -112,27 +143,144 @@
             "respuesta1":"Send",
             "respuesta2":"Return",
             "respuesta3":"Value",
-            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png" 
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"Return" 
+        },
+
+        {
+            "id":4,
+            "pregunta":"¿Qué es un algoritmo?",
+            "respuesta1":"Una estructura programada",
+            "respuesta2":"Una función matemática",
+            "respuesta3":"Instrucciones lógicas con una proposito especifico",
+            "respuesta4":"Código fuente",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/cssChild.png",
+            "correct":"Instrucciones lógicas con una proposito especifico"
+        },
+
+        {
+            "id":5,
+            "pregunta":"¿Dentro de las bases de la programación tenemos los siguientes paradigmas",
+            "respuesta1":"Programación orientada a clases",
+            "respuesta2":"Programación orientada a atributos",
+            "respuesta3":"Programación funcional",
+            "respuesta4":"Programación orientada a objetos",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
+            "correct":"Programación orientada a objetos"
         }
     ],
 
-    "users":[
+    "questionJava":[
         {
-            "id": 1,
-            "name": "Luis Humberto",
-            "lastName": "Hernández Lavacude",
-            "email": "lhernandez@gmail.com",
-            "password":"123456789",
-            "avatar":"https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/59c4f5655bafe82c692a7052/gato-marron_0.jpg",
-            "statitics":[
-                {
-                    "timeHours":0,
-                    "constrainedQuestions":0,
-                    "CorrectQuestions": 0,
-                    "IncorrectQuestion":0
-                }
-            ]
+            "id":1,
+            "pregunta":"¿Es obligatorio utilizar la sentencia default en una estructura switch?",
+            "respuesta1":"Sí, siempre",
+            "respuesta2":"Sí si ningún valor cumple la condición",
+            "respuesta3":"Sí, pero solo para valores enteros",
+            "respuesta4":"No, no es obligatorio",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"No, no es obligatorio"
+        },
 
+        {
+            "id":2,
+            "pregunta":"¿Qué modificador de acceso hace que una clase sea pública en Java?",
+            "respuesta1":"private",
+            "respuesta2":"protected",
+            "respuesta3":"free",
+            "respuesta4":"public",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"public"
+        },
+
+        {
+            "id":3,
+            "pregunta":"Los programas en Java se pueden construir mediante estructuras repetitivas, selectivas y ...",
+            "respuesta1":"secuenciales",
+            "respuesta2":"algorítmicas",
+            "respuesta3":"de cálculo",
+            "respuesta4":"logarítmicas",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"secuenciales"
+        },
+
+        {
+            "id":4,
+            "pregunta":"¿Quién fue el creador del lenguaje Java?",
+            "respuesta1":"James Gosling",
+            "respuesta2":"Dennis Ritchie",
+            "respuesta3":"Bjarne Stroustrup",
+            "respuesta4":"Rasmus Lerdorf",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"James Gosling"
+        },
+
+        {
+            "id":5,
+            "pregunta":"Para que una condición con el operador || sea verdadera se tiene que cumplir que...",
+            "respuesta1":"Cualquier operando sea true",
+            "respuesta2":"Todos los operandos sean true",
+            "respuesta3":"Al menos dos operados sean true",
+            "respuesta4":"Las tres respuestas son correctas",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"Cualquier operando sea true"
+        }
+    ],
+    
+    "questionMongo":[
+        {
+            "id":1,
+            "pregunta":"¿Cual de los siguientes conceptos no existe en MongoDB?",
+            "respuesta1":"Base de Datos",
+            "respuesta2":"Tupla",
+            "respuesta3":"Colección",
+            "respuesta4":"Documento",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"Tupla"
+        },
+
+        {
+            "id":2,
+            "pregunta":"¿Qué método utiliza MongoDB para realizar consultas de lectura de datos?",
+            "respuesta1":"select",
+            "respuesta2":"find",
+            "respuesta3":"query",
+            "respuesta4":"exec",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
+            "correct":"find"
+        },
+
+        {
+            "id":3,
+            "pregunta":"¿En qué puerto por defecto escucha MongoDB?",
+            "respuesta1":"27017",
+            "respuesta2":"27018",
+            "respuesta3":"27019",
+            "respuesta4":"27020",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/cssChild.png",
+            "correct":"27017"
+        },
+
+        {
+            "id":4,
+            "pregunta":"¿En qué directorio guarda MongoDB los datos para la distribución OS X?",
+            "respuesta1":"/etc/data",
+            "respuesta2":"/etc/db",
+            "respuesta3":"/data/db",
+            "respuesta4":"/data/mongodb",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
+            "correct":"/data/db"
+        },
+
+        {
+            "id":5,
+            "pregunta":"¿Qué comando de consola nos sirve para seleccionar una base de datos?",
+            "respuesta1":"db <nombredb>",
+            "respuesta2":"dbuse <nombredb>",
+            "respuesta3":"use <nombredb>",
+            "respuesta4":"use db <nombredb>",
+            "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
+            "correct":"use <nombredb>"
         }
     ]
 }
