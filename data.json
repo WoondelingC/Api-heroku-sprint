@@ -6,6 +6,7 @@
             "respuesta1": "main",
             "respuesta2": "section",
             "respuesta3": "header",
+            "respuesta4":"ninguna de las anteriores",
             "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
             "correct": "main"
     },
@@ -16,6 +17,7 @@
             "respuesta1": "<br>",
             "respuesta2": "<script>",
             "respuesta3": "<style>",
+            "respuesta4":"<p></p>",
             "imag": "https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
             "correct": "<script>"
     },
@@ -26,6 +28,7 @@
             "respuesta1":"Don’t repeat yellow",
             "respuesta2":"Don’t repeat yourself",           
             "respuesta3":"Don’t recicle year",
+            "respuesta4":"ninguna de las anteriores",
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
             "correct": "Don’t repeat yourself"
 
