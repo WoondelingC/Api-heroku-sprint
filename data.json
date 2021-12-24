@@ -122,6 +122,7 @@
             "respuesta1":"< javascript _code >",
             "respuesta2":"<script />",
             "respuesta3":"< ?script >< script? >",
+            "respuesta4":"<h3></h3>",
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child2.png",
             "correct":"<script />" 
         },
@@ -132,6 +133,7 @@
             "respuesta1":"font-family:",
             "respuesta2":"f:",
             "respuesta3":"font=",
+            "respuesta4":"ninguna de las anteriores",
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/ni%C3%B1a.png",
             "correct":"font-family:" 
         },
@@ -142,6 +144,7 @@
             "respuesta1":"Send",
             "respuesta2":"Return",
             "respuesta3":"Value",
+            "respuesta4":"get",
             "imag":"https://raw.githubusercontent.com/Dakkuti/Daily-bits/master/assets/child.png",
             "correct":"Return" 
         },
